@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import abi from "./abi.json";
 import { ethers } from "ethers";
 import "./App.css";
